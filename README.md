@@ -18,14 +18,7 @@
 
 ### About me
 
-I am a Computer Science student in the AI specialization at the University of Alberta (started Sept 2026), based in Edmonton. I am working toward a career in machine learning engineering, with a focus on PyTorch and reinforcement learning in the UAlberta and Amii ecosystem. I also founded [NorthCited](https://northcited.com), a consulting business that helps Alberta companies with public procurement.
-
-### Currently learning
-
-- Calculus, linear algebra, and probability and statistics for ML
-- Git and GitHub workflows
-- NumPy and SQL
-- Next up: pandas, scikit-learn and PyTorch
+I am a Computer Science student in the AI specialization at the University of Alberta (started Sept 2026), based in Edmonton. I am working toward a career in machine learning engineering, with a focus on PyTorch and reinforcement learning in the UAlberta and Amii ecosystem.
 
 ### Open to
 
