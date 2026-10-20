@@ -33,6 +33,12 @@ Projects are coming soon. In the meantime, follow my progress in [learning_log](
 <!-- contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/asaujla2/asaujla2/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/asaujla2/asaujla2/output/github-snake.svg" />
+  <img alt="Snake eating GitHub contributions" src="https://raw.githubusercontent.com/asaujla2/asaujla2/output/github-snake.svg" />
+</picture>
+
 <sub>Profile art built with <a href="https://github.com/mithun50/ascii-profile-kit">ascii-profile-kit</a>.</sub>
 
 </div>
