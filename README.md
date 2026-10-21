@@ -33,6 +33,4 @@ Projects are coming soon. In the meantime, follow my progress in [learning_log](
 <!-- contribution graph, refreshed daily by the workflow -->
 <img src="./contrib-heatmap.svg" width="860" alt="GitHub contribution graph" />
 
-<sub>Profile art built with <a href="https://github.com/mithun50/ascii-profile-kit">ascii-profile-kit</a>.</sub>
-
 </div>
